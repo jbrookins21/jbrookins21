@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jbrookins21
-- 👀 I’m interested in new projects for software development
-- 🌱 I’m currently learning how to implement array lists and encapsulation
+- 👀 I’m interested in plants, music, and Elden Ring
+- 🌱 I’m currently learning how to develop a portfolio website
 - 💞️ I’m looking to collaborate on anything AR/VR related
 - 📫 How to reach me: Twitter 🐦@josephbrookins9 | LinkedIn 🗄https://www.linkedin.com/in/josephcbrookins/
 
